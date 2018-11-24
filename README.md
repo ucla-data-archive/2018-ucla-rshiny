@@ -1,6 +1,6 @@
-## Repo for ELAG 2018 workshop on R Shiny - Interactive Data Applications
+## Repo for UCLA 2018 workshop on R Shiny - Interactive Data Applications
 
-Website: <https://ucla-data-archive.github.io/elag2018-shiny/>
+Website: <https://github.com/ucla-data-archive/2018-ucla-rshiny>
 Instructors: Harrison Dekker and Tim Dennis  
 [Setup info](setup-r.md)
 
